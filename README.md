@@ -12,8 +12,10 @@ You are welcome to contribute, assuming you:
 4. Document any errors you receive.
 
 That said, let's make something cool. You can find the textbook,
-Little OS Book, here: http://littleosbook.github.io/. Try to complete
+Little OS Book, here: **http://littleosbook.github.io/**. Try to complete
 sections in their entirety, so we don't get confused about where we left off.
+If you are familiar with Git, you should also make pull requests for changes
+you make. Our repository is at **sejr.github.io/OpenSooose**
 
 ## 29 January
 
