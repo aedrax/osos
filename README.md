@@ -15,7 +15,7 @@ That said, let's make something cool. You can find the textbook,
 Little OS Book, here: http://littleosbook.github.io/. Try to complete
 sections in their entirety, so we don't get confused about where we left off.
 
-# 29 January
+## 29 January
 
 - Began the project
 - Installed necessary tools
@@ -23,3 +23,14 @@ sections in their entirety, so we don't get confused about where we left off.
 - Done: Linking the Kernel
 - Done: Obtaining GRUB
 - Done: Building an ISO Image
+
+## Contributors
+
+[Sam Roth, Ohio Northern University](mailto:roth@computer.org)
+[Paul Sorensen, Ohio Northern University](mailto:p-sorensen@onu.edu)
+
+## Credits
+
+This would not be possible without the help of Erik Helin and Adam Renberg,
+who developed this operating system (and its associated textbook) while studying
+at the Royal Institute of Technology in Stockholm. 
