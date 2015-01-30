@@ -37,6 +37,11 @@ you make. Our repository is at **http://sejr.github.io/OpenSooose**
 [Sam Roth, Ohio Northern University](mailto:roth@computer.org)   
 [Paul Sorensen, Ohio Northern University](mailto:p-sorensen@onu.edu)
 
+## Environment
+
+This is being developed on Cloud9, a web-based IDE that allows for close
+collaboration. Development is managed by a virtual machine running Ubuntu.
+
 ## Credits
 
 This would not be possible without the help of Erik Helin and Adam Renberg,
