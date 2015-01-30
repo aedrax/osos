@@ -26,8 +26,7 @@ sections in their entirety, so we don't get confused about where we left off.
 
 ## Contributors
 
-[Sam Roth, Ohio Northern University](mailto:roth@computer.org)
-
+[Sam Roth, Ohio Northern University](mailto:roth@computer.org)   
 [Paul Sorensen, Ohio Northern University](mailto:p-sorensen@onu.edu)
 
 ## Credits
