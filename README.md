@@ -26,6 +26,11 @@ you make. Our repository is at **http://sejr.github.io/OpenSooose**
     - The bochslog now has a line containing the epected RAX=00000000cafebabe
     - Began setting up the stack
 
+## 31 January
+
+- Done: Running Bochs
+    - Missing register error solved by reinstalling Bochs.
+
 ## 30 January
 
 - Attempted: Running Bochs
