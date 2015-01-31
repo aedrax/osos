@@ -17,6 +17,15 @@ sections in their entirety, so we don't get confused about where we left off.
 If you are familiar with Git, you should also make pull requests for changes
 you make. Our repository is at **http://sejr.github.io/OpenSooose**
 
+## 31 January
+
+- Fixed: Running Bochs
+    - Discovered that the display_library was not working correctly, 
+      maybe because of limitations of the cloud 9 IDE?
+    - Installed the bochs-term display libary and used that with success
+    - The bochslog now has a line containing the epected RAX=00000000cafebabe
+    - Began setting up the stack
+
 ## 30 January
 
 - Attempted: Running Bochs
