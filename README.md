@@ -14,7 +14,7 @@ You are welcome to contribute, assuming you:
 You can find the textbook, Little OS Book, here: **http://littleosbook.github.io/**.
 Try to complete sections in their entirety, so we don't get confused about where we left off.
 If you are familiar with Git, you should also make pull requests for changes you make.
-Our repository is at **http://sejr.github.io/osos**
+Our repository is at **http://onu-opensource.github.io/osos**
 
 ## 05 February -Paul
 
