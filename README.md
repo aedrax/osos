@@ -1,4 +1,4 @@
-# OpenSooose
+# OsOS
 
 The end goal is to develop a fully-functional x86 operating system.
 For now, this file will be used by the developers to communicate their
@@ -8,16 +8,23 @@ You are welcome to contribute, assuming you:
 
 1. Begin where we left off.
 2. Clearly document the progress you make.
-3. Do not stray from LittleOSBook in any way.
+3. Do not stray from LittleOSBook in any way (yet).
 4. Document any errors you receive.
 
-That said, let's make something cool. You can find the textbook,
-Little OS Book, here: **http://littleosbook.github.io/**. Try to complete
-sections in their entirety, so we don't get confused about where we left off.
-If you are familiar with Git, you should also make pull requests for changes
-you make. Our repository is at **http://sejr.github.io/OpenSooose**
+You can find the textbook, Little OS Book, here: **http://littleosbook.github.io/**.
+Try to complete sections in their entirety, so we don't get confused about where we left off.
+If you are familiar with Git, you should also make pull requests for changes you make.
+Our repository is at **http://sejr.github.io/osos**
 
-## 31 January
+## 05 February -Paul
+
+- Added: Makefile, kmain.c, io.h, io.s
+    - Updated loader.s for stack
+    - there is a problem trying to compile the loader with nasm, 
+    - I keep getting the following "loader.s:15: warning: uninitialized space 
+    - declared in non-BSS section `.bss:': zeroing"
+
+## 31 January -Paul
 
 - Fixed: Running Bochs
     - Discovered that the display_library was not working correctly, 
@@ -26,18 +33,18 @@ you make. Our repository is at **http://sejr.github.io/OpenSooose**
     - The bochslog now has a line containing the epected RAX=00000000cafebabe
     - Began setting up the stack
 
-## 31 January
+## 31 January -Sam
 
 - Done: Running Bochs
     - Missing register error solved by reinstalling Bochs.
 
-## 30 January
+## 30 January -Sam
 
 - Attempted: Running Bochs
     - Problem: Expected register value RAX=00000000CAFEBABE not found.
     - Need to run through code again (namely loader.s) and regenerate iso.
 
-## 29 January
+## 29 January -Sam
 
 - Began the project
 - Installed necessary tools
