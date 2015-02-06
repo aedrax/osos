@@ -20,9 +20,7 @@ Our repository is at **http://onu-opensource.github.io/osos**
 
 - Added: Makefile, kmain.c, io.h, io.s
     - Updated loader.s for stack
-    - there is a problem trying to compile the loader with nasm, 
-    - I keep getting the following "loader.s:15: warning: uninitialized space 
-    - declared in non-BSS section `.bss:': zeroing"
+    - fixed link.ld and changed *(.bss) to *(.bss*)
 
 ## 31 January -Paul
 

@@ -21,6 +21,6 @@ SECTIONS {
     .bss ALIGN (0x1000) :    /* align at 4 KB */
     {
         *(COMMON)            /* all COMMON sections from all files */
-        *(.bss)              /* all bss sections from all files */
+        *(.bss*)              /* all bss sections from all files */
     }
 }
